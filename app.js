@@ -29,8 +29,20 @@ This repo will self-destruct in three seconds. Good luck!!!*/
 
 // @param {Object}
 // @return {Object}
-
-
+var safewayLotto = {
+  purchase: true,
+  prize: '$250 Million',
+  location: 'Manoa',
+  luckyNum: [],
+  winner: null
+};
+console.log(safewayLotto);
+function gacha(entry){
+  for(i=0; i<5; i++){
+    console.log(entry.luckyNum = Math.floor(Math.random()*51));
+    }
+}
+gacha(safewayLotto);
 // Mission 3:
 // Team Member: Abby
 
