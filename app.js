@@ -57,7 +57,15 @@ var celebs = [{name: "Bruce Lee", address: "500 Dragon Rd"},{name: "Michael Jord
 
 // @param {Object}
 // @console.log {String}
-
+function celebList(arr){
+	for(var i=0; i<arr.length; i++){
+		console.log("---------------------");
+		console.log("id: " + i);
+		console.log("Name: " + arr[i].name);
+		console.log("Address: " + arr[i].address);
+	}
+}
+celebList(celebs);
 
 // Mission 4:
 // Team Member: Kenny
