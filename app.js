@@ -6,7 +6,7 @@ do a git fetch and git pull to find your specific mission. After you complete yo
 This repo will self-destruct in three seconds. Good luck!!!*/
 
 // Mission 1: 
-// Team Member: ???
+// Team Member: Alavi
 
 //Create a function that will sum up odd numbers from 1 to 101. 
 
@@ -15,7 +15,7 @@ This repo will self-destruct in three seconds. Good luck!!!*/
 
 
 // Mission 2: 
-// Team Member: ???
+// Team Member: Mckarl
 
 //Declare a variable named safewayLotto and create the following key-value pairs for the object:
 
@@ -32,7 +32,7 @@ This repo will self-destruct in three seconds. Good luck!!!*/
 
 
 // Mission 3:
-// Team Member: ???
+// Team Member: Abby
 
 //Create a function that will iterate through the given object and console.log strings that prints the following format:
 
@@ -60,7 +60,7 @@ var celebs = [{name: "Bruce Lee", address: "500 Dragon Rd"},{name: "Michael Jord
 
 
 // Mission 4:
-// Team Member: ???
+// Team Member: Kenny
 
 /*Create a function that will take in an array of numbers and converts only the even indexed numbers into strings.*/
 
